@@ -1,1 +1,1 @@
-# AI-ech
+# AI-Tech
